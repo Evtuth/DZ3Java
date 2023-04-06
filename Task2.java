@@ -15,7 +15,7 @@ public class Task2 {
 
     static void operationNumbers(){
         
-        System.out.println("Список из какого количества элементов вы хотите создать?: ");
+        System.out.println("Список из какого количества элементов вы хотите создать: ");
         Scanner scanner = new Scanner(System.in);
         Integer col = scanner.nextInt();
         
